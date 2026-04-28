@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_register" type="id" />
+    <item name="txt_fullname" type="id" />
+    <item name="txt_email" type="id" />
+    <item name="txt_address" type="id" />
+    <item name="txt_password" type="id" />
+    <item name="tv_result" type="id" />
+    <item name="rg_semester" type="id" />
+    <item name="cb_agreement" type="id" />
+    <item name="sp_jurusan" type="id" />
+    <item name="tvJurusanError" type="id" />
+</resources>
